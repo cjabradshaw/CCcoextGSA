@@ -17,7 +17,7 @@ accompanies paper:
 ### Abstract
 Although theory identifies co-extinctions as a main driver of biodiversity loss, their role at the planetary scale has yet to be estimated. We subjected a global model of interconnected terrestrial vertebrate food webs to future (2020–2100) climate and land-use changes. We predict a 17.6% (± 0.16% SE) average reduction of local vertebrate diversity globally by 2100, with co-extinctions increasing the effect of primary extinctions by 184.2% (± 10.9% SE) on average under an intermediate emissions scenario. Communities will lose up to a half of ecological interactions, thus reducing trophic complexity, network connectance, and community resilience. The model reveals that the extreme toll of global change for vertebrate diversity might be of secondary importance compared to the damages to ecological network structure. 
 
-### Script
+### Scripts
 
 - <code>coextCCglobalSensitivityAnalysis.R</code>: a series of boosted regression tree emulators to examine the effect of variation in 6 model parameters on the total biodiversity loss predicted in simulations including both primary extinctions (from exceeding thermal tolerances) and the ensuing co-extinctions
 - full Python script for main paper available <a href="https://github.com/cjabradshaw/global_coextinctions">here</a>
