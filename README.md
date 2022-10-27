@@ -31,4 +31,4 @@ Variables include:
 
 ### Data
 
-- place 'data_for_sensitivty.csv' in the same directory as the R script above
+- place 'data_for_sensitivity.csv' in the same directory as the R script above
