@@ -1,5 +1,5 @@
 # Global sensitivity analysis for climate/land-use change co-extinctions analysis
-<a href="https://zenodo.org/badge/latestdoi/558146442"><img src="https://zenodo.org/badge/558146442.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.7255957"><img src="https://zenodo.org/badge/558146442.svg" alt="DOI"></a>
 <img align="right" src="network.png" alt="network icon" width="300" style="margin-top: 20px">
 
 Prof <a href="https://globalecologyflinders.com/people/#DIRECTOR">Corey J. A. Bradshaw</a> <br>
