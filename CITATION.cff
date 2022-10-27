@@ -1,0 +1,14 @@
+cff-version: 1.1
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Bradshaw"
+  given-names: "Corey"
+  orcid: "https://orcid.org/0000-0002-5328-7741"
+- family-names: "Strona"
+  given-names: "Giovanni"
+  orcid: "https://orcid.org/0000-0003-2294-4013"
+title: "Global sensitivity analysis for co-extinctions driven by climate/land-use change"
+version: 1.1
+doi: 10.5281/zenodo.7255957
+date-released: 2022-10-27
+url: "https://github.com/cjabradshaw/CCcoextGSA"
