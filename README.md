@@ -1,5 +1,5 @@
 # Global sensitivity analysis for climate/land-use change co-extinctions analysis
-<img align="right" src="network.png" alt="shark" width="300" style="margin-top: 20px">
+<img align="right" src="network.png" alt="network icon" width="300" style="margin-top: 20px">
 
 Prof <a href="https://globalecologyflinders.com/people/#DIRECTOR">Corey J. A. Bradshaw</a> <br>
 <a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a> | <em><a href="https://globalecologyflinders.com/partuyarta-ngadluku-wardli-kuu/" target="_blank">Partuyarta Ngadluku Wardli Kuu</a></em>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
