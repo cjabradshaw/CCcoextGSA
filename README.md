@@ -20,6 +20,7 @@ Although theory identifies co-extinctions as a main driver of biodiversity loss,
 ### Script
 
 - <code>coextCCglobalSensitivityAnalysis.R</code>: a series of boosted regression tree emulators to examine the effect of variation in 6 model parameters on the total biodiversity loss predicted in simulations including both primary extinctions (from exceeding thermal tolerances) and the ensuing co-extinctions
+- full Python script for main paper available <a href="https://github.com/cjabradshaw/global_coextinctions">here</a>
 
 Variables include:
 
